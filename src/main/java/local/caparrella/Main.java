@@ -6,9 +6,9 @@ public class Main {
         Persona[] persones = new Persona[3];
 
         // Inicialitza els objectes a l'array
-        persones[0] = new Persona("Júlia", 25);
-        persones[1] = new Persona("Maria", 30);
-        persones[1] = new Persona("Pepe", 30);
+        persones[0] = new Persona("Júlia", 19);
+        persones[1] = new Persona("Júlia", 19);
+        persones[1] = new Persona("Júlia", 19);
       
 
         // Accedeix als objectes a l'array
